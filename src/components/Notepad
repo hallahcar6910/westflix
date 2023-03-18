@@ -1,0 +1,27 @@
+API keyframes
+
+83103f979001bf9d0e64389f9a75b031
+
+
+Example API Request
+
+https://api.themoviedb.org/3/movie/550?api_key=83103f979001bf9d0e64389f9a75b031
+
+individual
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=83103f979001bf9d0e64389f9a75b031
+
+now playing
+https://api.themoviedb.org/3/movie/now_playing?api_key=83103f979001bf9d0e64389f9a75b031
+
+
+popular
+https://api.themoviedb.org/3/movie/popular?api_key=83103f979001bf9d0e64389f9a75b031
+
+top rated
+https://api.themoviedb.org/3/movie/top_rated?api_key=83103f979001bf9d0e64389f9a75b031
+
+upcoming
+https://api.themoviedb.org/3/movie/upcoming?api_key=83103f979001bf9d0e64389f9a75b031
+
+search
+https://api.themoviedb.org/3/search/movie?api_key=83103f979001bf9d0e64389f9a75b031a&query={movie_name}
